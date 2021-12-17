@@ -82,3 +82,10 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
+
+target
+/open-api-client/.gitignore
+/open-api-client/.travis.yml
+/open-api-client/.openapi-generator
+/open-api-client/gradle*
+/open-api-client/git_push.sh
