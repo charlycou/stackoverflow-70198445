@@ -89,4 +89,5 @@ target
 /open-api-client/.openapi-generator
 /open-api-client/gradle*
 /open-api-client/git_push.sh
+/open-api-client/build.sbt
 !/open-api-client/gradle.properties
